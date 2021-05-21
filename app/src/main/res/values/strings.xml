@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crypto Viewer</string>
+    <string name="coin_image_desc">icon image</string>
+    <string name="bitcoin_name">Bitcoin</string>
+    <string name="string_change_text">+3.13</string>
+    <string name="col1_title">CRYPTOCURRENCY</string>
+    <string name="col3_title">24H</string>
+    <string name="col2_title">PRICE</string>
+</resources>
